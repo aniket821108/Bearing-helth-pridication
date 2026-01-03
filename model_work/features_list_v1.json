@@ -1,0 +1,25 @@
+{
+  "features": [
+    "RMS",
+    "Kurtosis",
+    "Skewness",
+    "Peak",
+    "Variance",
+    "Mean_Abs",
+    "Peak_to_Peak",
+    "Crest_Factor",
+    "Shape_Factor",
+    "Impulse_Factor",
+    "Spectral_Centroid",
+    "Spectral_Spread",
+    "Dominant_Freq",
+    "Dominant_Mag",
+    "RMS_MA10",
+    "RMS_Trend",
+    "Kurtosis_MA10",
+    "Kurtosis_Trend",
+    "Peak_MA10",
+    "Peak_Trend"
+  ],
+  "count": 20
+}
